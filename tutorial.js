@@ -1,3 +1,5 @@
+//testcase
+
 var x = 0.0;
 var y = 0.0;
 var yspeed=10.0
@@ -6,6 +8,7 @@ var NUM = 10;
 var ctx;
 var canvas;
 var counter = 0;
+
 
 function init(){
     canvas = document.getElementById('tutorial');
