@@ -1,0 +1,32 @@
+@charset "utf-8";
+ 
+body
+{
+    margin:0;
+    padding:0;
+    background-color: #fff;
+    font-family:Helvetica, HiraKakuProN-W3, sans-serif; 
+    font-size:12px;
+    color:#000;
+}
+ 
+#contents
+{
+    position: absolute;
+    top: 100;
+    left: 100;
+    width: 300px;
+    height:300px;
+    border: 1px solid #000;
+    overflow:hidden;
+}
+ 
+/*#canvas
+{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 300px;
+    height:300px;
+    border: solid red; 
+}*/
