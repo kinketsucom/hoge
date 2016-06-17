@@ -45,7 +45,6 @@
 
 
 
-
     //位置を更新
     for(var i=0; i<NUM; i++){
     locX[i] += speedX[i];
