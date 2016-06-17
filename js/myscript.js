@@ -42,7 +42,7 @@
     ctx.globalCompositeOperation = "source-over";
 
     //衝突判定
-
+//へんこう
 
 
     //位置を更新
